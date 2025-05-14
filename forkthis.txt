@@ -3,7 +3,11 @@ fork fork fork
 qwer
 hello world
 update
+<<<<<<< HEAD
 changespart2
 update
 tttt
 last
+tttt
+qeqweqwe
+
